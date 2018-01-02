@@ -1,6 +1,6 @@
 # reverb02
 Created using create-react-app
-## How ro tun:
+## How to tun:
  In the project directory
 ```
 npm start
